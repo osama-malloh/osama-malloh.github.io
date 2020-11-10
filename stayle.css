@@ -1,0 +1,50 @@
+body{
+    background: #F0F2F0;  
+    background: -webkit-linear-gradient(to right, #000C40, #F0F2F0); 
+    background: linear-gradient(to right, #000C40, #F0F2F0); 
+    
+
+}
+#name{
+text-align: center;
+color: red;
+font-size: 300%;
+
+}
+#q1{
+background-color: rgb(219, 40, 20);
+font-size: 40px;
+
+}
+#q2{
+background-color: blue;
+font-size: 35px;
+
+}
+#q3{
+background-color:white;
+
+}
+#q4{
+background-color: yellow;
+font-size: 40px;
+}
+#q5{
+background-color: aqua;
+font-size: 35px;
+
+}
+#q6{
+
+    background-color:sienna;
+
+font-size: 40px;}
+#q7{
+background-color: blueviolet;
+font-size: 35px;
+
+}
+img{
+width: 20%;
+height: 20%;
+}
